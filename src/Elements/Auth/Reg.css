@@ -1,0 +1,85 @@
+.Reg {
+    width: 500px;
+    height: 558px;
+    margin-top: 38px;
+    margin-left: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Reg_pro {
+    width: 181px;
+    height: 181px;
+    border-radius: 1000px;
+}
+
+.Reg_1 {
+    width: 181px;
+    height: 222px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.Reg_2 {
+    width: 500px;
+    height: 296px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Reg_2 input {
+    padding-left: 10px;
+}
+
+.Log_input {
+    width: 495px;
+    height: 52px;
+    border-radius: 8px;
+    border: 1px solid black;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: black;
+}
+
+:placeholder-shown {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #878787;
+}
+
+.Log_button {
+    width: 500px;
+    height: 50px;
+    background-color: #AD02E0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border: none;
+}

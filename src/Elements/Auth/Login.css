@@ -1,0 +1,76 @@
+.Login {
+    width: 500px;
+    height: 279px;
+    margin-top: 43px;
+    margin-left: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Log_input {
+    width: 495px;
+    height: 52px;
+    border-radius: 8px;
+    border: 1px solid black;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: black;
+}
+
+.Login input {
+    padding-left: 10px;
+}
+
+:placeholder-shown {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #878787;
+}
+
+.Checkbox {
+    width: 254px;
+    height: 35px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #878787;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Check {
+    width: 35px;
+    height: 35px;
+    border: 2px solid #AD02E0;
+    border-radius: 5px;
+}
+
+
+.Log_button {
+    width: 500px;
+    height: 50px;
+    background-color: #AD02E0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border: none;
+}
+

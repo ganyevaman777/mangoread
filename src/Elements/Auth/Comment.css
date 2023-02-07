@@ -1,0 +1,79 @@
+.Comment {
+    width: 780px;
+    height: 302px;
+    background-color: #FFFFFF;
+    border-radius: 32px;
+    margin: 100px;
+}
+
+.Prof {
+    width: 408px;
+    height: 100px;
+    margin-top: 37px;
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Pro {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 1000px;
+    margin-left: 10px;
+}
+
+.Nick {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.Add_comment {
+    width: 660px;
+    height: 52px;
+    margin-top: 53px;
+    margin-left: 60px;
+    display: flex;
+}
+
+.Add_text {
+    width: 500px;
+    height: 50px;
+    border: 1px solid black;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    color: #878787;
+    display: flex;
+    align-items: center;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.Add_t {
+    margin-left: 10px;
+}
+
+.Add_button {
+    width: 160px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: #AD02E0;
+}

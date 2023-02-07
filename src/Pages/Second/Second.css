@@ -1,0 +1,266 @@
+.Second {
+    width: 1240px;
+    height: 1871px;
+    margin: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+.Mango_name {
+    width: 1240px;
+    height: 391px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Back {
+    width: 106px;
+    height: 29px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Back_1 {
+    width: 16px;
+    height: 16px;
+}
+
+.Back_2 {
+    width: 76px;
+    height: 29px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #878787;
+}
+
+
+
+
+
+.Image_name {
+    width: 1240px;
+    height: 329px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Image {
+    width: 328px;
+    height: 328px;
+    border-radius: 16px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.2);
+}
+
+.Information {
+    width: 871px;
+    height: 329px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Name_mango {
+    width: 871px;
+    height: 49px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 49px;
+    color: #000000;
+}
+
+.Inform {
+    width: 871px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Info {
+    width: 871px;
+    height: 35px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: black;
+    display: flex;
+}
+
+.Info_1 {
+    width: 871px;
+    height: 37px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    display: flex;
+}
+
+.Info_4 {
+    width: 871px;
+    height: 70px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: black;
+    display: flex;
+}
+
+.Info_s {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #878787;
+    margin-left: 10px;
+}
+
+
+
+
+
+.Line {
+    width: 1240px;
+    height: 2px;
+    background-color: #CECECE;
+}
+
+.Synopsis {
+    width: 1240px;
+    height: 427px;
+}
+
+.Syn_word {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.Syn_text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 140%;
+    color: #616161;
+}
+
+.Comments {
+    width: 1240px;
+    height: 835px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Com {
+    width: 1240px;
+    height: 43px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Top_com {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.Add_com {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #AD02E0;
+}
+
+
+
+
+
+.Comment {
+    width: 1235px;
+    height: 231px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Pro {
+    width: 100px;
+    height: 100px;
+    border-radius: 1000px;
+    margin-left: 10px;
+}
+
+.Com_line {
+    width: 2px;
+    height: 231px;
+    background-color: #878787;
+    border-radius: 100px;
+}
+
+.Com_text {
+    width: 1063px;
+    height: 231px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Nick {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.Comment_text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #878787;
+
+}
+
+
+
+
+
+.Pagination {
+    width: 306px;
+    height: 55px;
+    background-color: blueviolet;
+}

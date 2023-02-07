@@ -1,0 +1,279 @@
+.First {
+    background-color: #F3F3F3;
+    width: 1240px;
+    height: 783px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 32px;
+}
+
+.First_main {
+    width: 1240px;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+.Filter {
+    width: 400px;
+    height: 700px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.Back {
+    width: 400px;
+    height: 70px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.Back_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.But {
+    width: 100px;
+    height: 35px;
+    margin-top: 18px;
+    margin-left: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #878787;
+}
+
+.Filt {
+    width: 400px;
+    height: 558px;
+    display: flex;
+}
+
+.Filt_m {
+    width: 314px;
+    height: 558px;
+    margin-left: 20px;
+}
+
+.Filt_n {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.Genres {
+    margin-top: 10px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.Check {
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    border: 2px solid #2FE09B;
+}
+
+
+
+
+.Filt_line {
+    width: 10px;
+    height: 243px;
+    border-radius: 100px;
+    background-color: #D5D6D5;
+    margin-left: 51px;
+}
+
+
+
+
+
+
+.Filt_but {
+    width: 400px;
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Filt_button {
+    width: 360px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Bton_1 {
+    width: 174px;
+    height: 52px;
+    border: none;
+    background-color: #C94CEE;
+    border-radius: 8px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.Bton_2 {
+    width: 174px;
+    height: 52px;
+    border: none;
+    border-radius: 8px;
+    background-color: #AD02E0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+.Cards {
+    width: 820px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Card_block {
+    width: 820px;
+    height: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Card {
+    width: 190px;
+    height: 220px;
+    background-color: wheat;
+    border-radius: 15px;
+    position: relative;
+}
+
+.txt {
+    position: absolute;
+    width: 170px;
+    height: 68px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-top: 141px;
+}
+
+.txt_1 {
+    width: 67px;
+    height: 17px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+}
+
+.txt_2 {
+    width: 170px;
+    height: 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+.Pagination {
+    width: 306px;
+    height: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Numbers {
+    width: 222px;
+    height: 55px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    color: #A5A5A5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Number_2 {
+    width: 45px;
+    height: 45px;
+    background-color: #2FE09B;
+    border-radius: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
